@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crea",
+				"createEnemy"
+			],
+			[
+				"Abstrac",
+				"AbstractIterator"
+			],
+			[
+				"get",
+				"getDenominator"
+			],
+			[
+				"sear",
+				"search_shifted_arr\tfunction"
+			],
+			[
+				"sorte",
+				"sorted1\tstatement"
+			],
+			[
+				"sort",
+				"sorted1\tstatement"
+			],
+			[
+				"rotat",
+				"rotate_1D\tfunction"
+			],
+			[
+				"all",
+				"all_substrings\tfunction"
+			],
+			[
+				"subs",
+				"subst_len\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/index.html",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 277.0,
+		"last_filter": "gitpull",
+		"selected_items":
+		[
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git:cus",
+				"Git: Custom Command"
+			],
+			[
+				"custom",
+				"Git: Custom Command"
+			],
+			[
+				"git: cust",
+				"Git: Custom Command"
+			],
+			[
+				"git: custom",
+				"Git: Custom Command"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"github",
+				"GitHub: History"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeove",
+				"Package Control: Remove Package"
+			],
+			[
+				"box",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Monokai Pro: select theme"
+			],
+			[
+				"mo",
+				"Monokai Pro: select theme"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				" box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"anaconda au",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"buildview",
+				"Disable/Enable buildview for this window"
+			],
+			[
+				"enable bu",
+				"Disable/Enable buildview for this window"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"SFTP",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"rsub",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 486.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/muhammadhaidar/Google Drive/CS",
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages",
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io",
+		"/Users/muhammadhaidar/Google Drive/CS/Python"
+	],
+	"file_history":
+	[
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/index.html",
+		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/muhammadhaidar/Google Drive/CS/Python/first_python.py",
+		"/Users/muhammadhaidar/Google Drive/CS/Python/amazon practice.py",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - local/Lectures/Design Patterns Notes.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a4/a4-part1.pdf",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a4/a4-part2.pdf",
+		"/Users/muhammadhaidar/Google Drive/CS/SQL/SQL_practice.sql",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a1/a1.pdf",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a3/a3q3/polynomial.h",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a3/a3q1/rational.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/lectures/c++/classes/constructors/Node.h",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/lectures/c++/classes/constructors/Node.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a3/a3q1/pub1.out",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a3/a3q1/pub1.in",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a3/a3q1/a3q1.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a3/a3q1/rational.h",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a2/a2q2-tests/a2q2.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a3/a3q1/Makefile",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a2/a2q2_program/a2q2.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/Coding Challenges/twitter.py",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/246 Course Notes.pdf",
+		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/muhammadhaidar/Google Drive/CS/Default.sublime-workspace",
+		"/Users/muhammadhaidar/Google Drive/CS/Python/first_python",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - local/Terminal Commands.txt",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - local/A3/cool.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a2/a2q3-tests/a2q3.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/sftp-config.json",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a2/a2q5.cc",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246/Terminal Commands.txt",
+		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246/246 Course Notes.pdf",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246/useful commands.txt",
+		"/Users/muhammadhaidar/Google Drive/CS/CS 246/test.cc"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this.den",
+			"this.num",
+			"        "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this->den",
+			"this->num"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.764999924409,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "",
+	"project": "python.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
