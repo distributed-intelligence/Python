@@ -44,11 +44,33 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/index.html",
+			"file": "/Users/muhammadhaidar/Google Drive/CS/Website/public/index.html",
 			"settings":
 			{
-				"buffer_size": 16,
+				"buffer_size": 3319,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin17)\nCopyright (C) 2007 Free Software Foundation, Inc.\nbash: no job control in this shell\nbash-3.2$ ls\n404.html\nindex.html\nbash-3.2$ cd ..\nbash-3.2$ ls\nLICENSE.md\nREADME.md\nfirebase.json\npublic\nbash-3.2$ firebase deploy\n\n=== Deploying to 'website-a927b'...\n\ni  deploying hosting\ni  hosting: preparing public directory for upload...\n\ni  Progress: [....................................................................................................]\n\n✔  hosting: 2 files uploaded successfully\n\n✔  Deploy complete!\n\nProject Console: https://console.firebase.google.com/project/website-a927b/overview\nHosting URL: https://website-a927b.firebaseapp.com\nbash-3.2$ ",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Unix",
+				"name": "Running [⠔]",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nTerminality\n-----------\n\n  Terminality has been successfully installed\n  \n  Please note that Terminality supports these languages by default but\n      not limited to...\n  \n      - C/C++\n      - Lua\n      - Python\n      - Ruby\n      - Swift (OS X only)\n  \n  To gain maximum potentials of Terminality, please read how you can add your own\n      commands in README.md file\n",
+			"settings":
+			{
+				"buffer_size": 421,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
 			}
 		}
 	],
@@ -111,29 +133,169 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 277.0,
-		"last_filter": "gitpull",
+		"height": 357.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"gitpull",
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tin",
+				"Tint: New Terminal in Tab"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pul",
 				"Git: Pull"
 			],
 			[
-				"git",
-				"Git: Commit"
+				"push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"quic",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"cus",
+				"Git: Custom Command"
 			],
 			[
 				"git push",
 				"Git: Push"
 			],
 			[
+				"git qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
 				"git commit",
 				"Git: Commit"
 			],
 			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"gitpu",
+				"Git: Pull"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
 				"git:cus",
 				"Git: Custom Command"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"cu",
+				"Git: Custom Command"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git commit  fi",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git cu",
+				"Git: Custom Command"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
 			],
 			[
 				"custom",
@@ -146,18 +308,6 @@
 			[
 				"git: custom",
 				"Git: Custom Command"
-			],
-			[
-				"gitp",
-				"Git: Push"
-			],
-			[
-				"git pull",
-				"Git: Pull"
-			],
-			[
-				"git add",
-				"Git: Add All"
 			],
 			[
 				"git remote",
@@ -176,18 +326,6 @@
 				"GitHub: History"
 			],
 			[
-				"git ",
-				"Git: Commit"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
 				"git:status",
 				"Git: Status"
 			],
@@ -198,14 +336,6 @@
 			[
 				"remove ",
 				"Package Control: Remove Package"
-			],
-			[
-				"git comm",
-				"Git: Commit"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"rmeove",
@@ -318,12 +448,21 @@
 	"expanded_folders":
 	[
 		"/Users/muhammadhaidar/Google Drive/CS",
-		"/Users/muhammadhaidar/Google Drive/CS/Github Pages",
-		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io",
-		"/Users/muhammadhaidar/Google Drive/CS/Python"
+		"/Users/muhammadhaidar/Google Drive/CS/Python",
+		"/Users/muhammadhaidar/Google Drive/CS/Website"
 	],
 	"file_history":
 	[
+		"/Users/muhammadhaidar/Google Drive/CS/Website/README.md",
+		"/Users/muhammadhaidar/Google Drive/CS/Website/.gitignore",
+		"/Users/muhammadhaidar/Google Drive/CS/Website/index.HTML",
+		"/Users/muhammadhaidar/Google Drive/CS/Python/amazon practice.py",
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/_config.yml",
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/_posts/2017-11-14-welcome-to-jekyll.markdown",
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/about.md",
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/index.md",
+		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/.gitignore",
+		"/Users/muhammadhaidar/Google Drive/CS/.gitignore",
 		"/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/index.html",
 		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
 		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
@@ -331,7 +470,6 @@
 		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
 		"/Users/muhammadhaidar/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/Users/muhammadhaidar/Google Drive/CS/Python/first_python.py",
-		"/Users/muhammadhaidar/Google Drive/CS/Python/amazon practice.py",
 		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - local/Lectures/Design Patterns Notes.cc",
 		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a4/a4-part1.pdf",
 		"/Users/muhammadhaidar/Google Drive/CS/CS 246 - remote/a4/a4-part2.pdf",
@@ -402,24 +540,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/muhammadhaidar/Google Drive/CS/Github Pages/distributed-intelligence.github.io/index.html",
-					"semi_transient": true,
+					"file": "/Users/muhammadhaidar/Google Drive/CS/Website/public/index.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16,
+						"buffer_size": 3319,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1871,
+								1871
 							]
 						],
 						"settings":
@@ -427,13 +565,76 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/muhammadhaidar/Google Drive/CS",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "/Users/muhammadhaidar/Google Drive/CS",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -472,7 +673,7 @@
 		"cols":
 		[
 			0.0,
-			0.764999924409,
+			0.786227517613,
 			1.0
 		],
 		"rows":
@@ -525,12 +726,16 @@
 	},
 	"select_symbol":
 	{
-		"height": 392.0,
+		"height": 357.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~LinkedList"
+			]
 		],
-		"width": 392.0
+		"width": 374.0
 	},
 	"selected_group": 0,
 	"settings":
